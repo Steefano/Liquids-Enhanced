@@ -1,0 +1,7 @@
+name : "Liquids Enhanced"
+displayName : "Liquids Enhanced"
+author : "Stefano Rando"
+description: "Mod for mindustry that adds features and blocks for enhancing the liquid pipeline."
+version : "0.1"
+minGameVersion : "121"
+dependencies : ["multi-lib"]

@@ -1,0 +1,14 @@
+solid: false
+type: overlayfloor
+floating: true
+placeableLiquid: true
+category: effect
+size: 1
+targetable: false
+canOverdrive: false
+hasShadow: false
+requirements: [titanium/5]
+buildVisibility: shown
+variants: 1
+isLiquid: false
+breakable: true

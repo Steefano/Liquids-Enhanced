@@ -1,0 +1,4 @@
+type: resource
+name: Gold
+description: An alloy of gold.
+color: f2ff9c

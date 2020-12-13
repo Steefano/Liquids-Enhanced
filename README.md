@@ -1,5 +1,5 @@
 # Liquids Enhanced
-Mod for mindustry that adds features and blocks for enhancing the liquid pipeline.
+Mod for Mindustry that adds features and blocks for enhancing the liquid pipeline.
 # Installation
 **Important**: This mod requires [multi-lib](https://github.com/younggam/multi-lib) to work. Please install that mod first if you want to play with this one.
 
